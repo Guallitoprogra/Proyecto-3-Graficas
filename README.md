@@ -1,9 +1,9 @@
-# Sistema Solar (versión simple)
+# Sistema Solar 
 
 Render por software en Zig. Raylib solo abre la ventana, lee el teclado y el mouse, decodifica
 los PNG y muestra la imagen final: cada píxel lo calcula el programa.
 
-**Video:** _(link)_
+**Video:** youtube.com/watch?v=jk3amnhfsjU&feature=youtu.be
 
 ## Correr
 
